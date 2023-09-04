@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+      authentication-database: admin
+      username: UserWebSocketTest
+      password: UserWebSocketTest123*
+      host: localhost
+      port: '27017'
+      database: PoC_Chat
